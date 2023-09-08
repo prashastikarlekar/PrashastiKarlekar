@@ -64,13 +64,18 @@
  </div>
 <br>
 <!-- Most Used Languages --><br>
-<div style="display: flex; justify-content: space-between;">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=prashastikarlekar&show_icons=true&locale=en&layout=compact" height="200px" />
+<!-- Create a table with no boundaries and space between columns -->
+<table align="center" style="border: none; border-collapse: separate; border-spacing: 20px;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashastikarlekar&show_icons=true&locale=en&layout=compact" height="200px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=prashastikarlekar&count_private=true&theme=radical&show_icons=true" height="200px" />
+    </td>
+  </tr>
+</table>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashastikarlekar&count_private=true&theme=radical&show_icons=true" height="200px" />
-
-</div>
 <br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=prashastikarlekar" width="800px">
 
