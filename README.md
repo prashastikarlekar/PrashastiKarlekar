@@ -64,11 +64,11 @@
  </div>
 <br>
 <!-- Most Used Languages --><br>
-<div style="display: flex; flex-direction: row; ">
+<div style="display: flex; justify-content: space-between;">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=prashastikarlekar&show_icons=true&locale=en&layout=compact" height="200px" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashastikarlekar&count_private=true&theme=radical&show_icons=true" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prashastikarlekar&count_private=true&theme=radical&show_icons=true" height="200px" />
 
 </div>
 <br><br>
