@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, It's Prashasti here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+  Hi, I am Prashasti! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
 
@@ -56,16 +56,16 @@
 <h6>  <a href="https://github.com/prashastikarlekar/resume" /> My Resume</h6> 
 <br>
 <div align="center" >
- <div>
+
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashastikarlekar&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashastikarlekar&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="prashasti-karlekar width="500px"/>
    </p>
-  </div>
+
  </div>
 <br>
-<!-- Most Used Languages -->
+<!-- Most Used Languages --><br>
 <div style="display: flex; flex-direction: row;">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=prashastikarlekar&show_icons=true&locale=en&layout=compact" height="200px" width="480px"/>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs?username=prashastikarlekar&show_icons=true&locale=en&layout=compact" height="200px" width="450px" />
 
 
 
