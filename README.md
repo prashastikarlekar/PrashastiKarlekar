@@ -9,7 +9,7 @@
 
 🏙️ I'm based in the vibrant tech hub of Dallas, Texas.
 
-🚀 I'm eagerly gearing up for #GHC2023 in Orlando, Florida, where I'm looking forward to connecting with inspiring women technologists and engineers.
+🚀 My current obsession is Next.js and Tailwind CSS.
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/prashasti-karlekar/">
   <img
