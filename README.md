@@ -5,11 +5,7 @@
 
 🎓 I recently graduated with a Masters's in Data Science from Indiana University Bloomington in May 2023.
 
-👩‍💻 Currently, I'm actively on the lookout for exciting opportunities as a Software Engineer/SDE/Front End Engineer.
-
-🏙️ I'm based in the vibrant tech hub of Dallas, Texas.
-
-🚀 My current obsession is Next.js and Tailwind CSS.
+👩‍💻 Currently, I'm actively on the lookout for exciting opportunities as a Software Engineer/Software Development Engineer/Frontend Engineer/Full-stack Engineer.
 
 🎨 Excited to share my work on Arts Analytics Website for ARTS, ENTREPRENEURSHIP, AND INNOVATION LAB at Indiana University! Explore the website I developed for this fascinating project: <a href="https://www.artsanalytics.org/">Arts Analytics Website</a>
 
